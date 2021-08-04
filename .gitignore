@@ -35,3 +35,6 @@ lerna-debug.log*
 
 # SQLITE
 db.sqlite
+
+# http requests
+**/*.http
